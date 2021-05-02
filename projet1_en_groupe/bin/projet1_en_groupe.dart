@@ -6,7 +6,7 @@ void main(List<String> arguments) {
   var run = true;
   var bot = Bot(1, 100);
   //objet de type player
-  var player1 = Player('poyo', 1, 100);
+  var player1 = Player('', 1, 100);
 
   // c'est parti
   print('entrer votre pseudo : ');
